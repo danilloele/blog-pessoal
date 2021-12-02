@@ -5,3 +5,7 @@
 .texto{
     color: #665544;
 }
+
+.text-decorator-none{
+    text-decoration: none;
+}

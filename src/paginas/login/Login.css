@@ -1,0 +1,16 @@
+.texto-login{
+    font-weight: bold;
+    color: #A8443A;
+}
+.text-decorator-none{
+    text-decoration: none;
+}
+
+.imagem{
+    background-image: url(https://pbs.twimg.com/media/E9RxE_EXMAQQkZ9.jpg);
+    background-repeat: no-repeat; 
+    width: 100vh;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+}

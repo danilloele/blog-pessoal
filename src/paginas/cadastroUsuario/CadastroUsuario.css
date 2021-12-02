@@ -1,0 +1,32 @@
+.imagem2{
+    background-image: url(https://pbs.twimg.com/media/E9RxE_EXMAQQkZ9.jpg);
+    background-repeat: no-repeat; 
+    width: 100vh;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.texto-cadastro{
+    font-weight: bold;
+    color: #665544;
+}
+
+.botao-cancelar{
+    margin-right: 20px !important;
+    background-color: #A8443A !important;
+    color: #E8D3B6 !important;
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}
+
+.box-cadastro{
+    background-color: #E8D3B6;
+}
+
+.botao-cadastrar{
+    background-color: #665544 !important;
+    color: #E8D3B6 !important;
+}
