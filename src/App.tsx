@@ -5,7 +5,7 @@ import Footer from "./components/estaticos/footer/Footer";
 import CadastroUsuario from "./paginas/cadastroUsuario/CadastroUsuario";
 import Login from "./paginas/login/Login";
 import {Grid} from "@material-ui/core";
-import Home from "./paginas/home/Home"
+import Home from "./paginas/home/Home";
 import './App.css';
 
 function App() {
