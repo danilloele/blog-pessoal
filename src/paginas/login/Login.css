@@ -2,6 +2,11 @@
     font-weight: bold;
     color: #A8443A;
 }
+
+.texto{
+    color: #665544;
+}
+
 .text-decorator-none{
     text-decoration: none;
 }
@@ -13,4 +18,13 @@
     min-height: 100vh;
     background-size: cover;
     background-position: center;
+}
+
+.box-login{
+    background-color: #E8D3B6;
+}
+
+.botao-logar{
+    background-color: #665544 !important;
+    color: #E8D3B6 !important;
 }
