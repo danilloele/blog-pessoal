@@ -24,3 +24,7 @@ viewport-fit: "100vh";
     display: block;
     margin: 0 auto;
 }
+
+.text-decorator-none{
+    text-decoration: none;
+}
